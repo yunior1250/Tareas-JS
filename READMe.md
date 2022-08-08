@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial utilizando webpack
+Este es el proyecto De Tareas con JavaScript
  ### Notas 
  Recontruir modulos de node  
  ```
